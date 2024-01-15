@@ -1,6 +1,5 @@
 body{
     background-size:auto ;
-    font-family:"Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: "Hoefler Text", "Baskerville Old Face", Garamond, "Times New Roman", serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: "Hoefler Text", "Baskerville Old Face", Garamond, "Times New Roman", serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: "Hoefler Text", "Baskerville Old Face", Garamond, "Times New Roman", serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: "Hoefler Text", "Baskerville Old Face", Garamond, "Times New Roman", serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px;
 }
 
 #logo{
@@ -32,4 +31,12 @@ header{
 
 #timphoto{
     width: 200px;
+}
+
+#info-img{
+    font-size: 8px;
+}
+
+.yellow{
+    background-color: #fefe00;
 }
