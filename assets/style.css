@@ -13,6 +13,7 @@ header{
     background-image: url(./img/pattern.png);
     background-color: #4fa1ff;
     background-size:contain;
+    
 }
 
 
@@ -31,7 +32,8 @@ header{
 }
 
 #timphoto{
-    width: 200px;
+    width: 300px;
+    height: 250px;
 }
 
 #info-img{
@@ -40,4 +42,31 @@ header{
 
 .yellow{
     background-color: #fefe00;
+}
+
+.img-footer{
+    width: 150px;
+    height: 100px;
+}
+
+.lorem-footer1{
+    background-image: url(./img/monitor.jpg);
+    color: #FFFFFF;
+    font-size: 80%;
+    text-align: left;
+    width: 200px;
+    height: 150px;
+    margin: 2px;
+}
+
+
+
+.lorem-footer2{
+    background-image: url(./img/graph.jpg);
+    color: #FFFFFF;
+    font-size: 80%;
+    text-align: left;
+    width: 200px;
+    height: 150px;
+    margin: 2px;
 }
